@@ -471,9 +471,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenStreetMap** community for geographic data
 - **Emergency response organizations** for inspiration and real-world insights
 
-## 📞 Support
 
-For support, developed by Kavya Bansal
 
 ---
 
